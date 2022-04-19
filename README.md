@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my Playground 👋
+
+- 🔭 I’m currently working on Herome the Taser Following Robot
+- 🌱 I’m currently learning how to stop drilling leftwards and not blow up my pi
+- 👯 I’m looking to collaborate on a human tracking hexapod
+- 🤔 I’m looking for geniuses to comprehend TfLite source code
+- 💬 Ask me about computer architecture, edge ML, kubernetes, robotics
+- 📫 How to reach me: ivanz36x@gmail.com
+- 😄 Fun fact: I love rain, food, and laughs! 
 
 <!--
 **izou3/izou3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
