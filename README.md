@@ -1,4 +1,4 @@
-### Welcome to my Playground 👋
+### A Little Preview About Me... 👋
 
 - 🔭 I’m currently working on Herome...a robot that follows you...and tazes you
 - 🌱 I’m currently learning how to stop drilling leftwards and not shorting my pi
