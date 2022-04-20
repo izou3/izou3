@@ -5,7 +5,7 @@
 - :smirk: I'm trying very hard to not scamaz through my courses
 - 👯 I’m looking to collaborate on a human tracking hexapod
 - 🤔 I’m looking for geniuses to comprehend TfLite source code
-- 💬 Ask me about computer architecture, edge ML, kubernetes, robotics
+- 💬 Ask me about computer architecture, Edge ML, kubernetes, robotics, and software dev
 - 📫 How to reach me: ivanz36x@gmail.com
 - 😄 Fun fact: I love rain, food, and laughs! 
 
