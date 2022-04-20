@@ -1,6 +1,6 @@
 ### Welcome to my Playground 👋
 
-- 🔭 I’m currently working on Herome
+- 🔭 I’m currently working on Herome...a robot that follows you...and does something else
 - 🌱 I’m currently learning how to stop drilling leftwards and not blow up my pi
 - :smirk: I'm trying very hard to not scamaz through my courses
 - 👯 I’m looking to collaborate on a human tracking hexapod
