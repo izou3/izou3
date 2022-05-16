@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on Herome...a robot that follows you
 - 🌱 I’m currently learning how to stop drilling leftwards and not shorting my pi
-- :smirk: I'm trying very hard to not scamaz through my courses
+- :smirk: I'm procrastinating on starting a blog 
 - 👯 I’m looking to collaborate on a human tracking hexapod
 - 🤔 I’m looking for geniuses to comprehend TfLite source code
-- 💬 Ask me about computer architecture, Edge ML, kubernetes, robotics, and software dev
+- 💬 Ask me about computer architecture, Edge ML, robotics, cloud tech, and software dev
 - 📫 How to reach me: ivanz36x@gmail.com
 - 😄 Fun fact: I love rain, food, and laughs! 
 
