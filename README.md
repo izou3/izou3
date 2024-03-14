@@ -1,10 +1,10 @@
 ### A Little Preview About Me... 👋
 
-- 🔭 I’m currently working on Herome...a robot that follows you
-- 🌱 I’m currently learning how to stop drilling leftwards and not shorting my pi
+- 🔭 I’m currently working on Raccoon Eyes, a startup that tracks food waste
+- 🌱 I’m currently learning how scale our startup 
 - :smirk: I'm procrastinating on starting a blog 
 - 👯 I’m looking to collaborate on a human tracking hexapod
-- 🤔 I’m looking for geniuses to comprehend TfLite source code
+- 🤔 I’m looking for geniuses to comprehend vision transformers 
 - 💬 Ask me about computer architecture, Edge ML, robotics, cloud tech, and software dev
 - 📫 How to reach me: ivanz36x@gmail.com
 - 😄 Fun fact: I love rain, food, and laughs! 
