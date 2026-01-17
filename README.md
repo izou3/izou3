@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on a human tracking hexapod
 - 🤔 I’m looking for geniuses to comprehend vision transformers 
 - 💬 Ask me about computer architecture, Edge ML, robotics, cloud tech, and software dev
-- 📫 How to reach me: ivanz36x@gmail.com
 - 😄 Fun fact: I love rain, food, and laughs! 
 
 <!--
